@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/dvj" android:duration="60"></item>
+    <item android:drawable="@drawable/dvk" android:duration="60"></item>
+    <item android:drawable="@drawable/dvl" android:duration="60"></item>
+    <item android:drawable="@drawable/dvm" android:duration="60"></item>
+    <item android:drawable="@drawable/dvn" android:duration="60"></item>
+    <item android:drawable="@drawable/dvo" android:duration="60"></item>
+    <item android:drawable="@drawable/dvp" android:duration="60"></item>
+    <item android:drawable="@drawable/dvq" android:duration="60"></item>
+    <item android:drawable="@drawable/dvr" android:duration="60"></item>
+    <item android:drawable="@drawable/dvs" android:duration="60"></item>
+
+</animation-list>
